@@ -1,0 +1,70 @@
+1. Create a remote repo on http://github.com
+
+2. Copy the URL
+
+3. Open Terminal / Git Shell
+
+4. cloning the remote repo
+
+5. Demo is my Project Directory / Working Directory
+
+6. .git directory Local Repo 7. touch bmi http://cal.py
+
+8. git add bmi_cal.py
+
+9. git commit -m ""
+
+10. git push
+
+# Someone deletes the repo from my laptop git clone https://github.com/neuerung/demo.git
+
+# My laptop got crashed / stolen
+
+git clone https://github.com/neuerung/demo.git
+
+# Forgot to bring my loptop #On my friends Laptop
+
+git clone https://github.com/neuerung/demo.git di will do my coding of the project
+
+git add bmi cal, py
+
+git commitm
+
+git push
+
+
+
+
+
+# Now i reach my home
+
+# DO NOT CLONE
+
+git pull origin master
+
+# u will work on ur project at home
+
+git add
+
+git commitm
+
+git push
+
+# How to check the code of someone else https://github.com/RameshAditya/asciify # git clone https://github.com/RameshAditya/asciify
+
+
+
+
+# Messed working but NOT staged and NOT Committed
+
+# and NOT pushed git checkout HEAD bmi
+
+http://cal.py
+
+#Messed working (staged and committed) but NOT pushed
+
+git checkout HEAD-1 bmi http://cal.py
+
+git add
+
+git commit -m ""
